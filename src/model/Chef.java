@@ -4,6 +4,7 @@ public class Chef extends Person{
     int experience;
 
     public Chef(int experience) {
+        super();
         this.experience = experience;
     }
 
